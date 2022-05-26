@@ -1,2 +1,2 @@
 # try-and-do
-Test- and Demoproject
+This is my Test- and Demorepository for practice
